@@ -23,7 +23,3 @@ def count_words(input_file):
     text = clean_text(text)
     words = text.split()
     return Counter(words)
-
-
-if __name__ == "__main__":
-    print(count_words("zen.txt"))
