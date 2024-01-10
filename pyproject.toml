@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts"
+name = "pycounts_fh"
 version = "0.1.0"
 description = "Calculate Word counts in a text file."
 authors = ["Farrandi Hernando"]
