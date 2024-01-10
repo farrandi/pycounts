@@ -35,6 +35,11 @@ By contributing to this project, you agree to abide by its terms.
 `pycounts` was created by Tomas Beuzen. It is licensed under the terms
 of the MIT license.
 
+## Links in PyPI
+
+- [TestPyPI](https://test.pypi.org/project/pycounts_fh/)
+- [PyPI](https://pypi.org/project/pycounts_fh/)
+
 ## Credits
 
 `pycounts` was created with
